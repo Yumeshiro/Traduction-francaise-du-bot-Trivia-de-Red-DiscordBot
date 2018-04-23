@@ -1,0 +1,11 @@
+Quelle village est-ce? https://www.oda-team.fr/naruto/1.png `kiri ` village caché de la brume `brume
+Quelle village est-ce? https://www.oda-team.fr/naruto/2.png `konoha ` village caché de la feuille  `feuille
+Quelle village est-ce? https://www.oda-team.fr/naruto/3.png `kumo ` village caché des nuages  ` nuage
+Quelle village est-ce? https://www.oda-team.fr/naruto/4.png `iwa ` village caché de la roche  ` roche
+Quelle village est-ce? https://www.oda-team.fr/naruto/5.png `suna ` village caché du sable  ` sable
+Quelle village est-ce? https://www.oda-team.fr/naruto/6.png `ame `  village caché de la pluie  ` pluie
+Quelle village est-ce? https://www.oda-team.fr/naruto/7.png `kusa ` village caché du pays de l'herbe.  ` pays de l'herbe ` herbe ` l'herbe
+Quelle village est-ce? https://www.oda-team.fr/naruto/8.png `taki ` village caché du pays de la cascade.  ` cascade
+Quelle village est-ce? https://www.oda-team.fr/naruto/9.png `takumi ` Le village de takumi  `village des artisans
+Quelle village est-ce? https://www.oda-team.fr/naruto/10.png `oto ` village caché du pays des rizières  ` pays des rizières  ` rizière ` riziere
+Quelle village est-ce? https://www.oda-team.fr/naruto/11.png ` yuki ` pays ge la neige  ` naige ` yuki
