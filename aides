@@ -1,3 +1,7 @@
+Ces fichiers son la traduction ou nouveau questionnaire du bot Trivia dans Red-DiscordBot.
+Vous pouvez trouver l'origine ici : https://github.com/Cog-Creators/Red-DiscordBot
+
+
 -Tous les fichiers .txt sont a placer dans le dossier \data\trivia
 -le fichier trivia.py est a mettre dans \cogs pour remplacer celui en anglais, 
 vous pouvez le renomé avant de le remplacer pour pouvoir le récuperer si il y a un problème.
